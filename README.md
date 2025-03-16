@@ -60,6 +60,7 @@ The model was trained on an image dataset and achieved **high accuracy** after t
 ## 👥 Contributors
 - **Maria Chmite** - [@MariaChmite](https://github.com/MariaChmite)
 - **Salim El Ghersse** – [GitHub](https://github.com/SalimElGhersse)
+- **Mohamed Ouballouk**
 
 
 🔥 Special thanks to all contributors who helped develop this project!
